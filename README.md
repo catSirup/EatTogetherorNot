@@ -1,4 +1,4 @@
-# EatTogetherorNot
+# Eat! Together or Not
 
 ![preview][1]
 
